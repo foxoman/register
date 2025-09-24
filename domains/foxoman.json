@@ -1,0 +1,10 @@
+{
+  "description": "Foxoman Dev",
+  "repo": "https://github.com/foxoman",
+  "owner": {
+    "username": "foxoman"
+  },
+  "record": {
+    "CNAME": "www.foxoman.net"
+  }
+}
